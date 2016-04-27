@@ -7,7 +7,7 @@ auto_off_zimmer
 --]]
 
 --startet gedimmtes nachtlicht, wenn NACHT status. optimal, um nicht hinzufallen :)
---benötigt anwesenheitsvariable und script
+--benötigt anwesenheitsvariable und Script
 
 ------------------------------------------------------------------
 local door = 134-- ID des türkontakts
